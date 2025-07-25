@@ -16,7 +16,21 @@
 - Minimal GUI for quick setup
 - Ideal for practising with both auditory and visual cues
 
-**File:** `Foot-Tapper-v1.py`
+
+<img width="413" height="441" alt="Screenshot 2025-07-25 054119" src="https://github.com/user-attachments/assets/431e3a01-438e-4055-85bc-31383ed37d8a" />
+
+
+**File:** 
+- Foot-Tapper.py
+- audio.py
+- audio_wav.py
+- gui.py
+- heartbeat.py
+- list_devices.py
+- metronome.py
+- requirements.txt
+- test_beep.py
+- test_beep_device.py
 
 ---
 
@@ -30,7 +44,7 @@
 - Perfect for musicians wanting a richer practice tool with engaging visual feedback
 
 
-<img width="604" height="301" alt="Screenshot 2025-07-25 051405" src="https://github.com/user-attachments/assets/c8514c7c-c531-493c-a563-5a45f9675d31" />
+<img width="603" height="306" alt="Screenshot 2025-07-25 054643" src="https://github.com/user-attachments/assets/34b260c9-76cc-4ce3-9d57-ade862d893f4" />
 
 
 **Files:**  
