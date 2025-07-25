@@ -9,7 +9,7 @@ from heartbeat import HeartbeatWidget
 class FootTapperApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("👟 Foot-Tapper Metronome v2")
+        self.setWindowTitle("👟 Foot-Tapper-v2")
         self.setMinimumWidth(400)
         self.layout = QVBoxLayout()
         self.setLayout(self.layout)
