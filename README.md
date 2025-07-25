@@ -79,19 +79,19 @@ python Foot-Tapper.py
 
 ## File Structure
 
-- `Foot-Tapper-v1.py` — Original beep-based metronome (single file, heartbeat visualisation)
-- `Foot-Tapper.py` — Launcher for v2
-- `gui.py` — User interface logic
-- `metronome.py` — Metronome timing and thread control
-- `audio.py` — Drum and cymbal sound synthesis
-- `heartbeat.py` — Sneaker tap visualisation widget for v2
-- `requirements.txt` — Python dependencies
+- `Foot-Tapper-v1.py` - Original beep-based metronome (single file, heartbeat visualisation)
+- `Foot-Tapper.py` - Launcher for v2
+- `gui.py` - User interface logic
+- `metronome.py` - Metronome timing and thread control
+- `audio.py` - Drum and cymbal sound synthesis
+- `heartbeat.py` - Sneaker tap visualisation widget for v2
+- `requirements.txt` - Python dependencies
 
 ---
 
 ## Licence
 
-MIT Licence — free for personal or commercial use.
+MIT Licence - free for personal or commercial use.
 
 ---
 
