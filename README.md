@@ -20,7 +20,17 @@
 <img width="413" height="441" alt="Screenshot 2025-07-25 054119" src="https://github.com/user-attachments/assets/431e3a01-438e-4055-85bc-31383ed37d8a" />
 
 
-**File:** `Foot-Tapper-v1.py`
+**File:** 
+- Foot-Tapper.py
+- audio.py
+- audio_wav.py
+- gui.py
+- heartbeat.py
+- list_devices.py
+- metronome.py
+- requirements.txt
+- test_beep.py
+- test_beep_device.py
 
 ---
 
