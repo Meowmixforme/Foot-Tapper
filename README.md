@@ -11,7 +11,7 @@
 
 - Simple beep sound on each beat
 - Adjustable BPM (40–240)
-- Time signature support
+- Time signature support - create your own tap tempo by clicking
 - **Heartbeat line visualisation**: A moving ASCII heartbeat line shows the beat visually
 - Minimal GUI for quick setup
 - Ideal for practising with both auditory and visual cues
