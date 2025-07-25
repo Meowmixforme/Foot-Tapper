@@ -15,7 +15,7 @@
 - **Heartbeat line visualisation**: A moving ASCII heartbeat line shows the beat visually
 - Minimal GUI for quick setup
 - Ideal for practising with both auditory and visual cues
-- 
+
 
 <img width="413" height="441" alt="Screenshot 2025-07-25 054119" src="https://github.com/user-attachments/assets/431e3a01-438e-4055-85bc-31383ed37d8a" />
 
