@@ -34,7 +34,7 @@
 - Perfect for musicians wanting a richer practice tool with engaging visual feedback
 
 
-<img width="604" height="301" alt="Screenshot 2025-07-25 051405" src="https://github.com/user-attachments/assets/c8514c7c-c531-493c-a563-5a45f9675d31" />
+<img width="603" height="306" alt="Screenshot 2025-07-25 054643" src="https://github.com/user-attachments/assets/34b260c9-76cc-4ce3-9d57-ade862d893f4" />
 
 
 **Files:**  
