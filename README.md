@@ -21,16 +21,11 @@
 
 
 **File:** 
-- Foot-Tapper.py
-- audio.py
-- audio_wav.py
-- gui.py
-- heartbeat.py
-- list_devices.py
-- metronome.py
-- requirements.txt
-- test_beep.py
-- test_beep_device.py
+- `Foot-Tapper.py` (launcher for v1)
+- `gui.py` (app GUI logic)
+- `metronome.py` (timing and threading)
+- `audio.py` (beep sound generation)
+- `heartbeat.py` (heartbeat visualisation widget)
 
 ---
 
