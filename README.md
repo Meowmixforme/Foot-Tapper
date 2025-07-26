@@ -48,6 +48,7 @@
 - `metronome.py` (timing and threading)
 - `audio.py` (sound synthesis)
 - `heartbeat.py` (visualisation widget)
+- `requirements.txt` - Python dependencies
 
 ---
 
@@ -79,7 +80,6 @@ python Foot-Tapper.py
 
 ## File Structure
 
-- `Foot-Tapper-v1.py` - Original beep-based metronome (single file, heartbeat visualisation)
 - `Foot-Tapper.py` - Launcher for v2
 - `gui.py` - User interface logic
 - `metronome.py` - Metronome timing and thread control
