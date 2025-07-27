@@ -29,47 +29,6 @@
 
 ---
 
-### v2: Drum/Cymbal & Sneaker Tap Metronome
-
-- Drum and soft cymbal sounds alternate for a more musical experience
-- Adjustable BPM, time signature, and rhythmic subdivision (quarter, eighth, sixteenth)
-- **Sneaker tap visualisation**: A sneaker emoji 👟 "taps" across the screen in time with the beat
-- Modern PySide6 GUI
-- Modular code using OOP and SOLID principles for easy extension
-- Perfect for musicians wanting a richer practice tool with engaging visual feedback
-
-
-<img width="603" height="306" alt="Screenshot 2025-07-25 054643" src="https://github.com/user-attachments/assets/34b260c9-76cc-4ce3-9d57-ade862d893f4" />
-
-
-**Files:**  
-- `Foot-Tapper.py` (launcher for v2)
-- `gui.py` (app GUI logic)
-- `metronome.py` (timing and threading)
-- `audio.py` (sound synthesis)
-- `heartbeat.py` (visualisation widget)
-- `requirements.txt` - Python dependencies
-
----
-
-## Installation & Usage
-
-### 1. Install Python 3.8+ (recommended: 3.10+)
-
-### 2. Install dependencies
-
-```sh
-pip install -r requirements.txt
-```
-
-### 3. Run your chosen version
-
-#### v1: Beep & Heartbeat
-
-```sh
-python Foot-Tapper-v1.py
-```
-
 
 ## Troubleshooting
 
