@@ -70,37 +70,6 @@ pip install -r requirements.txt
 python Foot-Tapper-v1.py
 ```
 
-#### v2: Drum/Cymbal & Sneaker Tap
-
-```sh
-python Foot-Tapper.py
-```
-
----
-
-## File Structure
-
-- `Foot-Tapper.py` - Launcher for v2
-- `gui.py` - User interface logic
-- `metronome.py` - Metronome timing and thread control
-- `audio.py` - Drum and cymbal sound synthesis
-- `heartbeat.py` - Sneaker tap visualisation widget for v2
-- `requirements.txt` - Python dependencies
-
----
-
-## Licence
-
-MIT Licence - free for personal or commercial use.
-
----
-
-## Credits
-
-- Python, PySide6, numpy, sounddevice
-- Designed for musicians, by musicians
-
----
 
 ## Troubleshooting
 
