@@ -2,6 +2,8 @@
 
 **Foot-Tapper** is a collection of free, open-source desktop metronomes for musicians, built in Python.  
 
+I thought it would be more fun to create my own than downloading something pre-existing. New versions will be added in the future.
+
 
 ---
 
